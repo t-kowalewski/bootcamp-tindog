@@ -48,7 +48,35 @@ h1 {
 .title-img {
     position: relative;
     left: 20%;
-    bottom: 5%;
+    /* bottom: 5%; */
     transform: rotate(25deg);
     width: 60%;
+}
+
+/* --- Features --- */
+h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#features {
+    padding: 7% 15%;
+}
+
+.features-item {
+    text-align: center;
+    padding: 7% 3%;
+}
+
+.features-txt {
+    color: #8f8f8f;
+}
+
+.features-icon {
+    color: #ef8172;
+    margin-bottom: 6%;
+}
+
+.features-icon:hover {
+    color: #ff4c68;
 }
