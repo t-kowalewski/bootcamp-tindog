@@ -55,7 +55,7 @@ h1 {
 /* --- Features --- */
 h3 {
     font-size: 1.5rem;
-    font-weight: bold;
+    font-weight: 700;
 }
 
 #features {
@@ -83,7 +83,7 @@ h3 {
 /* Testimonials Section */
 h2 {
     font-size: 3rem;
-    font-weight: bold;
+    font-weight: 700;
     line-height: 1.5;
 }
 
@@ -113,4 +113,15 @@ h2 {
 .press-logo {
     width: 15%;
     margin: 20px 20px 50px;
+}
+
+/* Pricing Section */
+
+#pricing {
+    padding: 6rem;
+    text-align: center;
+}
+
+.pricing-column {
+    padding: 3% 2%;
 }
