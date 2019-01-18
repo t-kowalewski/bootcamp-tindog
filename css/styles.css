@@ -146,10 +146,9 @@ h1, h2, h3 {
 }
 
 /* CTA Section */
-
+/* -- already styled inside "Sections" -- */
 
 /* Footer Section */
-
 .footer-icon {
     margin: 0 1% 3%;
 }
